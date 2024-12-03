@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/fde51046dae3442c954e5d65090ea5a8/artifacts
+end_time: 1729138382527
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: fde51046dae3442c954e5d65090ea5a8
+run_name: able-flea-820
+run_uuid: fde51046dae3442c954e5d65090ea5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729138380787
+status: 3
+tags: []
+user_id: amitdhaygude

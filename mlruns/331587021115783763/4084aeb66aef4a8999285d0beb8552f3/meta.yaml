@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/4084aeb66aef4a8999285d0beb8552f3/artifacts
+end_time: 1733220509123
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: 4084aeb66aef4a8999285d0beb8552f3
+run_name: casual-squirrel-789
+run_uuid: 4084aeb66aef4a8999285d0beb8552f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733220507661
+status: 3
+tags: []
+user_id: amitdhaygude

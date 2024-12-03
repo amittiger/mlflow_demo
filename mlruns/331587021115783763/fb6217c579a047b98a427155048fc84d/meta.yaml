@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/fb6217c579a047b98a427155048fc84d/artifacts
+end_time: 1733140898117
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: fb6217c579a047b98a427155048fc84d
+run_name: awesome-rook-667
+run_uuid: fb6217c579a047b98a427155048fc84d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733140896684
+status: 3
+tags: []
+user_id: amitdhaygude

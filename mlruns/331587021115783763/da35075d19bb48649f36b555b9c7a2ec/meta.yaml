@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/da35075d19bb48649f36b555b9c7a2ec/artifacts
+end_time: 1733140895185
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: da35075d19bb48649f36b555b9c7a2ec
+run_name: grandiose-frog-988
+run_uuid: da35075d19bb48649f36b555b9c7a2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733140892601
+status: 3
+tags: []
+user_id: amitdhaygude

@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/dcbdeba24afe45f9836a6865821a3c87/artifacts
+end_time: 1729138175481
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: dcbdeba24afe45f9836a6865821a3c87
+run_name: rare-mole-957
+run_uuid: dcbdeba24afe45f9836a6865821a3c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729138171993
+status: 3
+tags: []
+user_id: amitdhaygude

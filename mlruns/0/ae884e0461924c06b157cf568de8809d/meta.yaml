@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/0/ae884e0461924c06b157cf568de8809d/artifacts
+end_time: 1729140286689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae884e0461924c06b157cf568de8809d
+run_name: burly-donkey-324
+run_uuid: ae884e0461924c06b157cf568de8809d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729139964559
+status: 3
+tags: []
+user_id: amitdhaygude

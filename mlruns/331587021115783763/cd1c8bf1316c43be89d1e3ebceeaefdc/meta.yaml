@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/cd1c8bf1316c43be89d1e3ebceeaefdc/artifacts
+end_time: 1733220230817
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: cd1c8bf1316c43be89d1e3ebceeaefdc
+run_name: intelligent-ape-882
+run_uuid: cd1c8bf1316c43be89d1e3ebceeaefdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733220229431
+status: 3
+tags: []
+user_id: amitdhaygude

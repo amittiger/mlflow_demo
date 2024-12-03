@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/76c015f33c9b451e8ad61ddb4598f85b/artifacts
+end_time: 1733220225467
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: 76c015f33c9b451e8ad61ddb4598f85b
+run_name: beautiful-wolf-953
+run_uuid: 76c015f33c9b451e8ad61ddb4598f85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733220223024
+status: 3
+tags: []
+user_id: amitdhaygude

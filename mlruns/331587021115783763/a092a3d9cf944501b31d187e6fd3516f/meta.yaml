@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/a092a3d9cf944501b31d187e6fd3516f/artifacts
+end_time: 1729138386387
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: a092a3d9cf944501b31d187e6fd3516f
+run_name: awesome-hound-172
+run_uuid: a092a3d9cf944501b31d187e6fd3516f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729138384630
+status: 3
+tags: []
+user_id: amitdhaygude

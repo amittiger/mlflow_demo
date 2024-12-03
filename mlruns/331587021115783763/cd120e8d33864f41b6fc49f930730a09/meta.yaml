@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/cd120e8d33864f41b6fc49f930730a09/artifacts
+end_time: 1733140896646
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: cd120e8d33864f41b6fc49f930730a09
+run_name: bustling-lynx-488
+run_uuid: cd120e8d33864f41b6fc49f930730a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733140895230
+status: 3
+tags: []
+user_id: amitdhaygude

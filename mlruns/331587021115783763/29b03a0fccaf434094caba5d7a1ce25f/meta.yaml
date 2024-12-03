@@ -1,0 +1,15 @@
+artifact_uri: /home/amitdhaygude/mlflow_t/pydataberlin-2019/mlruns/331587021115783763/29b03a0fccaf434094caba5d7a1ce25f/artifacts
+end_time: 1733220514854
+entry_point_name: ''
+experiment_id: '331587021115783763'
+lifecycle_stage: active
+run_id: 29b03a0fccaf434094caba5d7a1ce25f
+run_name: amazing-horse-568
+run_uuid: 29b03a0fccaf434094caba5d7a1ce25f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733220513424
+status: 3
+tags: []
+user_id: amitdhaygude
